@@ -56,14 +56,6 @@ Eger to Learn Real world tech projects.<br><br>💻Stack: Python | Django | Flas
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="30" alt="apple logo"  />
 </div>
 
-##
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/om-bakale/om-bakale/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/om-bakale/om-bakale/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
-<img src="https://raw.githubusercontent.com/om-bakale/om-bakale/output/snake.svg" alt="Snake animation" />
-
 ## 📊 GitHub Stats:
 
 <div align="center">
@@ -72,7 +64,8 @@ Eger to Learn Real world tech projects.<br><br>💻Stack: Python | Django | Flas
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="100" src="https://i.imgflip.com/65efzo.gif"  />
+<div></div>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=om-bakale&limit=5&theme=neon&combine_all_yearly_contributions=true)
