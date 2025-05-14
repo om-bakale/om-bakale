@@ -1,6 +1,5 @@
 
-Om Bakale:<br>
-I'm a Python and Web Developer who loves building web applications, APIs, and automation tools.<br>
+🚀Om Bakale: Python and Web Developer who loves building web applications, APIs, and automation tools.<br>
 Eger to Learn Real world tech projects.<br><br>💻Stack: Python | Django | Flask | HTML | CSS | JavaScript | SQL | Git | C | C# | Java | Oracal |  <br> 🔒 Exploring: <br>📱 Creator: Demystifying tech for curious minds<br>🌱 Learning: Unique & Fascinating Concepts<br>🐙 Open-Source: Building cool stuff on GitHub<br>🎮 Game Addict: Conquering leaderboards + virtual worlds<br>☕ Fueled By: Curiosity (and endless espresso)<br>🎯 Goal: Build safer, smarter tech with AI-powered security<br><br>Let’s break code, not rules! 😎🔗
 
 ## 🌐 Socials:
