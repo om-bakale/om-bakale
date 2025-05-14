@@ -57,6 +57,11 @@ Eger to Learn Real world tech projects.<br><br>💻Stack: Python | Django | Flas
 </div>
 
 ##
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/om-bakale/om-bakale/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/om-bakale/om-bakale/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
 <img src="https://raw.githubusercontent.com/om-bakale/om-bakale/output/snake.svg" alt="Snake animation" />
 
 ## 📊 GitHub Stats:
