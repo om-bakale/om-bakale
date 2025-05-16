@@ -1,4 +1,4 @@
-
+<img src="Black and Yellow Web Developer LinkedIn Banner.png" alt="GitHub Banner" width="100%" />
 🚀Om Bakale: Python and Web Developer who loves building web applications, APIs, and automation tools.<br>
 Eager to Learn & Build Real World tech Solutions.<br><br>💻Stack: Python | Django | Flask | HTML | CSS | JavaScript | SQL | Git | C | C# | Java | Oracal |  <br> 🔒 Exploring: <br>📱 Creator: Demystifying tech for curious minds<br>🌱 Learning: Unique & Fascinating Concepts<br>🐙 Open-Source: Building cool stuff on GitHub<br>🎮 Game Addict: Conquering leaderboards + virtual worlds<br>☕ Fueled By: Curiosity (and endless espresso)<br>🎯 Goal: Build safer, smarter tech with AI-powered security<br><br>Let’s break code, not rules! 😎🔗
 
